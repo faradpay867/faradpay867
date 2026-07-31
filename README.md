@@ -45,3 +45,4 @@ Body:
   "cancel_url": "[https://yourdomain.com/checkout/cancel](https://yourdomain.com/checkout/cancel)",
   "description": "Store Purchase / Web3 Digital Product"
 }
+<a href="https://faradpay.com" target="_blank" rel="noopener noreferrer">FaradPay Official Website</a>
